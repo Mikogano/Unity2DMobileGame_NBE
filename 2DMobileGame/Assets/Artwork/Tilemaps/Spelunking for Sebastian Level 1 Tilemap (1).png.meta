@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6c0df32f1677be24498d19a0fbf02f07
+guid: 7cbb3ad5e96ed6942bc688d50293fc6f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -93,11 +93,24 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_0
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +124,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16c4f91ceef45ef4c8c55f6d443a642c
-      internalID: -9747861
+      spriteID: 9fdf17909c19d534b80ae05408a1dc36
+      internalID: -1789239029
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_1
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_1
       rect:
         serializedVersion: 2
         x: 16
@@ -132,14 +145,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4494524fad05e8348b233d188a320a28
-      internalID: 610665534
+      spriteID: 97cc763c6a4236b47aa56cafc3789192
+      internalID: 1991592508
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_2
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_2
       rect:
         serializedVersion: 2
         x: 32
@@ -153,14 +166,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41c44626d4ba42b4aadf7c17865c588c
-      internalID: -2107734021
+      spriteID: f28843efe2c5f5a47b7cb288287ee663
+      internalID: -1303637948
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_3
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_3
       rect:
         serializedVersion: 2
         x: 48
@@ -174,14 +187,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b211c9db859416f41b3b0d4c36d7291e
-      internalID: -1929884911
+      spriteID: a5c282356d8e7034f9903b0f67798f48
+      internalID: 434371097
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_4
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_4
       rect:
         serializedVersion: 2
         x: 64
@@ -195,14 +208,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7eaf9756c8c355c4693954e322172415
-      internalID: -652956389
+      spriteID: ff94344e83d65b54c8e274a4f682e6b1
+      internalID: 436604168
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_5
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_5
       rect:
         serializedVersion: 2
         x: 80
@@ -216,14 +229,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93d60647ec0882443be37f69c05a89a4
-      internalID: -385303328
+      spriteID: 003823d70224f7947ad352c7c4d67904
+      internalID: 1615249559
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_6
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_6
       rect:
         serializedVersion: 2
         x: 96
@@ -237,14 +250,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a665c821c8c9fc428904c32001934fd
-      internalID: 1719235865
+      spriteID: b00d305b2bbe20e47b81ca01f258c677
+      internalID: 166594041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_7
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_7
       rect:
         serializedVersion: 2
         x: 112
@@ -258,14 +271,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06ecf9c4e26fdb841b99580879d966d5
-      internalID: -584842484
+      spriteID: 4148ac3afd85bc247b4befff76ec6fb2
+      internalID: -1703521681
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_8
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_8
       rect:
         serializedVersion: 2
         x: 128
@@ -279,14 +292,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c0ac14e70ca7854e81f35031d4467fb
-      internalID: -451498863
+      spriteID: a01c43e3972ce804c893dfc294cf1f59
+      internalID: -657792034
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_9
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_9
       rect:
         serializedVersion: 2
         x: 144
@@ -300,14 +313,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 219c9981fe215984a8d76cb2061bd7f8
-      internalID: -1854877393
+      spriteID: 4a455ce66aedf1446906bf600b6d484f
+      internalID: -1960957284
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_10
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_10
       rect:
         serializedVersion: 2
         x: 160
@@ -321,14 +334,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e4569c3fc3cb764186524ac96762668
-      internalID: 1771405331
+      spriteID: d87afcd448440e7478d007d1f6a7a7fe
+      internalID: 952508825
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_11
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_11
       rect:
         serializedVersion: 2
         x: 176
@@ -342,14 +355,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47364f5c605231a44a4939ef7b528541
-      internalID: 1050762481
+      spriteID: e8db2ade42a1c9840bca9843081c7098
+      internalID: 824947730
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_12
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_12
       rect:
         serializedVersion: 2
         x: 192
@@ -363,14 +376,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 975d395a7c9dc534883ece3d286affe6
-      internalID: 1256331592
+      spriteID: ab874429bd663d94a8cbe15987d784df
+      internalID: -1985553429
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_13
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_13
       rect:
         serializedVersion: 2
         x: 208
@@ -384,14 +397,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69fb2cdb62b785049bb44b855fd062f8
-      internalID: -29518056
+      spriteID: eef7ce668ad61e841a91ba842df86380
+      internalID: -1704285431
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_14
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_14
       rect:
         serializedVersion: 2
         x: 224
@@ -405,14 +418,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62198f685b9132042bbc50632525d253
-      internalID: -1875794405
+      spriteID: d09fb4fb51f4d4745af6e6ed2f8c701f
+      internalID: 2084397799
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_15
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_15
       rect:
         serializedVersion: 2
         x: 240
@@ -426,14 +439,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc0c733958a0e6b4885c537496085f5c
-      internalID: 44868416
+      spriteID: 610218a21b12a2347a01874d99795747
+      internalID: 1853287021
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_16
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_16
       rect:
         serializedVersion: 2
         x: 256
@@ -447,14 +460,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d8cff2a2579a9646ad8674e5bfe7d00
-      internalID: 3894994
+      spriteID: 4a11e98fe070a974589b1b05be2aebe7
+      internalID: 2016541504
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_17
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_17
       rect:
         serializedVersion: 2
         x: 272
@@ -468,14 +481,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7cf3818246fa7a84a93a812cb3237d6f
-      internalID: 1936238
+      spriteID: d3003f3502137654481874013ca7008b
+      internalID: 1648110766
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_18
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_18
       rect:
         serializedVersion: 2
         x: 288
@@ -489,14 +502,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc5fb375127dd2f44b5a7839dba4fde6
-      internalID: 897186183
+      spriteID: fd2f9587820ec1141b3d61ad7c41dd70
+      internalID: 1798577137
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_19
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_19
       rect:
         serializedVersion: 2
         x: 304
@@ -510,14 +523,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1649c776e1b2047439ccf75038570b79
-      internalID: 1138738039
+      spriteID: 5840ee25991872640b4ea1b29a2e2798
+      internalID: 1581755905
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_20
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_20
       rect:
         serializedVersion: 2
         x: 0
@@ -531,14 +544,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 013f1f5f95fbe2842b0f4bcfcdf32223
-      internalID: 48301895
+      spriteID: 2502982341c5b25499c34273835063a1
+      internalID: -1578507765
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_21
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_21
       rect:
         serializedVersion: 2
         x: 16
@@ -552,14 +565,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9562681c55388540bfd007dc92a64aa
-      internalID: -1984754815
+      spriteID: 7ccec794234a9824db463cae44dccf63
+      internalID: -101328948
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_22
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_22
       rect:
         serializedVersion: 2
         x: 32
@@ -573,14 +586,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2fdc1778b918f449b14a439243f0502
-      internalID: 637858472
+      spriteID: e3440902c2a3f39409016bc0d12debfa
+      internalID: 1417256695
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_23
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_23
       rect:
         serializedVersion: 2
         x: 48
@@ -594,14 +607,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9461b3f92fac62b4ba660508a2b7d485
-      internalID: 752974426
+      spriteID: 6ce33061f7182f048bb6f50c1cc9c830
+      internalID: -326125952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_24
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_24
       rect:
         serializedVersion: 2
         x: 64
@@ -615,14 +628,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85adfde983abfc14798af3d2872ef454
-      internalID: 1962319379
+      spriteID: 8d487c3a1cc0229459c1d3173e93e242
+      internalID: -390371373
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_25
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_25
       rect:
         serializedVersion: 2
         x: 80
@@ -636,14 +649,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 771b9d032e17eaa47b7e5d6b492b6d54
-      internalID: 521791086
+      spriteID: 5f6497fe1740b804cbecccfcd2bc173e
+      internalID: 507658529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_26
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_26
       rect:
         serializedVersion: 2
         x: 96
@@ -657,14 +670,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1356f62d221ae8847898dc51716025e3
-      internalID: -2036410541
+      spriteID: bfaf903060f31ce48895fcc1cde2afc7
+      internalID: -501704107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_27
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_27
       rect:
         serializedVersion: 2
         x: 112
@@ -678,14 +691,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5c2546813a4ba24d8bda2a7f3d11974
-      internalID: 92282715
+      spriteID: 8fa1dbcf6c22b7a49857a9541440cfb0
+      internalID: 1778555586
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_28
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_28
       rect:
         serializedVersion: 2
         x: 128
@@ -699,14 +712,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 148227b5d0de9164880b3c930b4e6c18
-      internalID: 1647827224
+      spriteID: 7f3e2b67f39fb0946bc50a70197f7e6d
+      internalID: 1897322875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_29
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_29
       rect:
         serializedVersion: 2
         x: 144
@@ -720,14 +733,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0a3b859f750f984b9e2b0a29640eea0
-      internalID: 1711839174
+      spriteID: 30909959c20ed3648bd094b65fa7e541
+      internalID: 1020676286
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_30
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_30
       rect:
         serializedVersion: 2
         x: 160
@@ -741,14 +754,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e934333ee8e58c2499cb9ef44aacc020
-      internalID: -427559527
+      spriteID: 4b62f1a2e9de7234193d0b4f11e10151
+      internalID: 441237782
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_31
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_31
       rect:
         serializedVersion: 2
         x: 176
@@ -762,14 +775,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 029a1697252e5534482dfcf962f2ec58
-      internalID: 875309904
+      spriteID: 30ce7f084d8d96c4c882cafb98521040
+      internalID: 1331742742
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_32
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_32
       rect:
         serializedVersion: 2
         x: 192
@@ -783,14 +796,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52cf9f9f967ed69439fb959349aa514e
-      internalID: -206159701
+      spriteID: 665e8c9db9fab1f4681d104d0863a3c7
+      internalID: -409301813
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_33
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_33
       rect:
         serializedVersion: 2
         x: 208
@@ -804,14 +817,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc2f0324cdc62c943bec40b2456fa478
-      internalID: -343945036
+      spriteID: 0cb14e313b7b65a4da33aa2db2ac1015
+      internalID: -843469927
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_34
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_34
       rect:
         serializedVersion: 2
         x: 224
@@ -825,14 +838,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41913659c4eb8954db0535aeabc792c0
-      internalID: -2001026773
+      spriteID: d3b2f172098a8eb4f8bb64748f682111
+      internalID: 832112842
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_35
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_35
       rect:
         serializedVersion: 2
         x: 240
@@ -846,14 +859,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70b6ae274f992eb4ab093d60bd15e1dc
-      internalID: -400509986
+      spriteID: 175920521ee4e8c439d3c8797cff57e1
+      internalID: -954033676
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_36
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_36
       rect:
         serializedVersion: 2
         x: 256
@@ -867,14 +880,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58cf7dca34593084196b09a99f5f0c60
-      internalID: 1026159222
+      spriteID: 30e8865c89ce6e74db4fc577e3c7c9d0
+      internalID: -487548792
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_37
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_37
       rect:
         serializedVersion: 2
         x: 272
@@ -888,14 +901,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be180484aac7b6f47bf87bb313a5a66a
-      internalID: 723089039
+      spriteID: 68f75209c75dcfc45b25328573b83b55
+      internalID: -1347274236
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_38
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_38
       rect:
         serializedVersion: 2
         x: 288
@@ -909,14 +922,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ea7486d5ac7aa24faee1bf115fdcd34
-      internalID: -1995429238
+      spriteID: 346097e3687154e4ca7db5effb398ba7
+      internalID: -659450382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_39
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_39
       rect:
         serializedVersion: 2
         x: 304
@@ -930,14 +943,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9466b3c00e7e3d4b813b6c47179e34a
-      internalID: 22226415
+      spriteID: eb0ebae416482e54c8e513eeec398506
+      internalID: -1330093979
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_40
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_40
       rect:
         serializedVersion: 2
         x: 0
@@ -951,14 +964,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2412440213d040f45bee8c1d3962285b
-      internalID: -204625407
+      spriteID: 1fb78f87388675f4e8b416205da328c7
+      internalID: 1568941405
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_41
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_41
       rect:
         serializedVersion: 2
         x: 16
@@ -972,14 +985,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8a2ad893c9d0a84aa15f8dba2389487
-      internalID: 510765524
+      spriteID: 5e964872cefa1164f8a054d892caba7d
+      internalID: -1450036217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_42
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_42
       rect:
         serializedVersion: 2
         x: 32
@@ -993,14 +1006,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b75f1de5f2674343ab4be590350537b
-      internalID: -733906998
+      spriteID: 5952935eaec68fc4e9fd82125b29fe02
+      internalID: 840127768
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_43
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_43
       rect:
         serializedVersion: 2
         x: 48
@@ -1014,14 +1027,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de4133cc0ebcb3e47ba0a1f26cfa98c4
-      internalID: -1850578884
+      spriteID: d9e4dcb60541cc14fa833d650ce1327a
+      internalID: 864184114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_44
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_44
       rect:
         serializedVersion: 2
         x: 64
@@ -1035,14 +1048,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c512f81063ed223419419d9583da23b2
-      internalID: 1383754719
+      spriteID: d99450b418e2591488b857b5585b041a
+      internalID: 701803605
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_45
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_45
       rect:
         serializedVersion: 2
         x: 80
@@ -1056,14 +1069,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7f07a1c689cf1340b62cfed8c4de893
-      internalID: -1157819572
+      spriteID: b07fc77a35ee2ec46999c1b99f2a0bc9
+      internalID: 1736803339
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_46
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_46
       rect:
         serializedVersion: 2
         x: 96
@@ -1077,14 +1090,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9299ec980a30c1c458aa3dc99c9609d5
-      internalID: 2082905069
+      spriteID: f83f197026446534cae6274982becc10
+      internalID: 1669724069
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_47
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_47
       rect:
         serializedVersion: 2
         x: 112
@@ -1098,14 +1111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9eacbd306fa59e42bad10e9bcdcfe7b
-      internalID: -1527414499
+      spriteID: ab73685c29b97494d9de79186073a74a
+      internalID: -101416609
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_48
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_48
       rect:
         serializedVersion: 2
         x: 128
@@ -1119,14 +1132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc9e1c3658a970e4a946e5003fae8e6f
-      internalID: 612809053
+      spriteID: 80ddcd5fa6bc87d4ba5f9a91b32e8d29
+      internalID: -2049700794
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_49
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_49
       rect:
         serializedVersion: 2
         x: 144
@@ -1140,14 +1153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ce09e0b886a0e34e8f7c3acd3b88a5c
-      internalID: 1912724248
+      spriteID: c51c991ecc59f9f4d98817c1894f14d4
+      internalID: 1431121729
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_50
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_50
       rect:
         serializedVersion: 2
         x: 160
@@ -1161,14 +1174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd4ff2348ed68914891050cac2eae17c
-      internalID: -2101001637
+      spriteID: bf8d3d5e102908e4c97eeabc068306a8
+      internalID: -1297970158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_51
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_51
       rect:
         serializedVersion: 2
         x: 176
@@ -1182,14 +1195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4d46e4e7aa7eda4ca87de73687ea4ee
-      internalID: -1045165422
+      spriteID: a4c58644fd67e4643901bdfac115394e
+      internalID: -1968707202
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_52
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_52
       rect:
         serializedVersion: 2
         x: 192
@@ -1203,14 +1216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4042c8214536c2043b51188464c14c5c
-      internalID: 5955825
+      spriteID: e8397c3bebf46434cbf6e8a88562a01c
+      internalID: 784578844
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_53
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_53
       rect:
         serializedVersion: 2
         x: 208
@@ -1224,14 +1237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5878bf17480be14a99f70b7a37626ac
-      internalID: 437895158
+      spriteID: 7efeb7a142389ee438b9a039689cf4b1
+      internalID: 1942961622
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_54
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_54
       rect:
         serializedVersion: 2
         x: 224
@@ -1245,14 +1258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 635dcc216df40294b827cee908fa7a91
-      internalID: 1789102055
+      spriteID: 9aada12c76e96a841908d6f38505e23c
+      internalID: -604888249
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_55
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_55
       rect:
         serializedVersion: 2
         x: 240
@@ -1266,14 +1279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5681a97a13ce8d47ab6cdbb94194545
-      internalID: -1893999063
+      spriteID: 7a2db5cc209b75e41bb7b5dc60347cec
+      internalID: 896167554
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_56
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_56
       rect:
         serializedVersion: 2
         x: 256
@@ -1287,14 +1300,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db19aec5a99310f40bb4e56293a0382b
-      internalID: 1017806098
+      spriteID: 96eb1154789f4bd45befeade34edd14a
+      internalID: -1587687728
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_57
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_57
       rect:
         serializedVersion: 2
         x: 272
@@ -1308,14 +1321,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9fb1cca36ec59c94199311f351dca43b
-      internalID: -894062997
+      spriteID: 90626fa75bc4e724582a4dc380a03833
+      internalID: -1539094647
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_58
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_58
       rect:
         serializedVersion: 2
         x: 288
@@ -1329,14 +1342,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e0e561f04ad08d49a2d742e36e21316
-      internalID: 1297265770
+      spriteID: 20de14f9f9e30fe4ab2bac14c3636b3c
+      internalID: -1784557309
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_59
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_59
       rect:
         serializedVersion: 2
         x: 304
@@ -1350,14 +1363,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0c24202815012949b8c771fc682a4ce
-      internalID: -304454843
+      spriteID: 4ede198cb427c934e9e9d7618305e11a
+      internalID: -1804113327
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_60
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_60
       rect:
         serializedVersion: 2
         x: 0
@@ -1371,14 +1384,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 172d8efceacf53f4c8369bb31b520d11
-      internalID: -37643250
+      spriteID: 097767b59ebf728488b5fb9637b38f1b
+      internalID: 299299450
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_61
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_61
       rect:
         serializedVersion: 2
         x: 16
@@ -1392,14 +1405,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b30a17eb20b73474dbe96542e9245d3d
-      internalID: -2083607414
+      spriteID: dce0c8aa3b129004a8ee1e35077fc0bc
+      internalID: -366267576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_62
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_62
       rect:
         serializedVersion: 2
         x: 32
@@ -1413,14 +1426,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d34d7ebcfac44d049917c814204496dd
-      internalID: 247509113
+      spriteID: c99f55d4618275a47a52b52ed3d327fa
+      internalID: 803340716
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_63
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_63
       rect:
         serializedVersion: 2
         x: 48
@@ -1434,14 +1447,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2fe67199fb01ab54dabb14feea27f63a
-      internalID: 1372644098
+      spriteID: 58adabb4f7877704b8b6f12bca173ce7
+      internalID: -396619035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_64
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_64
       rect:
         serializedVersion: 2
         x: 64
@@ -1455,14 +1468,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 323b0850080c80843815cc7f499d7cef
-      internalID: 615192748
+      spriteID: fe31cc07847f51840bbda2fa177d99a6
+      internalID: 2009151906
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_65
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_65
       rect:
         serializedVersion: 2
         x: 80
@@ -1476,14 +1489,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 412b34d3ca889d140a52745fc0a344e6
-      internalID: -1745291260
+      spriteID: e96a38f7e66809d40a8305cda5dfa0e3
+      internalID: 1522001042
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_66
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_66
       rect:
         serializedVersion: 2
         x: 96
@@ -1497,14 +1510,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4a351edb88895f943ab37fbbda26fe08
-      internalID: 892886126
+      spriteID: 722d4269675565f4486ea9d82381f03e
+      internalID: 1251831163
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_67
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e29c8a46233e94bbb4eaf5ea1d37e2
+      internalID: -454374290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_68
       rect:
         serializedVersion: 2
         x: 128
@@ -1518,14 +1552,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4737e4bca2a4c140ae93a13eae5e8bd
-      internalID: 1192011907
+      spriteID: d57a90e141af55840bb1e00bd8915a11
+      internalID: 2009667880
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_68
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_69
       rect:
         serializedVersion: 2
         x: 144
@@ -1539,14 +1573,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2673e8a37e91f8c4bb65cf4d04e7bbea
-      internalID: 1927577882
+      spriteID: 1410b828232fa1546a3f07f1dac71cf6
+      internalID: 864414716
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_69
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_70
       rect:
         serializedVersion: 2
         x: 160
@@ -1560,14 +1594,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1907d08cb9f06f1419fb60607a8c6c54
-      internalID: 218282164
+      spriteID: 388d3622c2bb69248a036fe158e5b1ff
+      internalID: 1524144510
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_70
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_71
       rect:
         serializedVersion: 2
         x: 176
@@ -1581,14 +1615,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22ef15874b7118d418d33d10c06ae164
-      internalID: 566188615
+      spriteID: 735bb3ecaa82b44468b3daf13f74e959
+      internalID: 1843485980
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_71
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_72
       rect:
         serializedVersion: 2
         x: 192
@@ -1602,14 +1636,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8108c3f7ee246314b8f8b0fda635b7c4
-      internalID: 407186363
+      spriteID: 42976abfb2629bb4abc0146d90d69f11
+      internalID: 405297596
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_72
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_73
       rect:
         serializedVersion: 2
         x: 208
@@ -1623,14 +1657,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc8b8fa862397f749a2c37b09fefed49
-      internalID: 1415937190
+      spriteID: 1286fe2692234da428753a088373027d
+      internalID: 2105712902
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_73
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_74
       rect:
         serializedVersion: 2
         x: 224
@@ -1644,14 +1678,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 728a6063238bcb34fa69b3b24a0da638
-      internalID: -1650045578
+      spriteID: 229849cdc8cda4f459f1153d29b5d27a
+      internalID: -1444627907
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_74
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_75
       rect:
         serializedVersion: 2
         x: 240
@@ -1665,14 +1699,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec1ea4e21ba691b47b3398d4c477eafc
-      internalID: 1497069168
+      spriteID: 61134f096dc6fd949bc1f244b6d5507b
+      internalID: 419684534
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_75
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_76
       rect:
         serializedVersion: 2
         x: 256
@@ -1686,14 +1720,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d808371375d5ea74298d7d6223d48387
-      internalID: -1528073514
+      spriteID: c86db53f724da1045891c597ba937ed9
+      internalID: 829422361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_76
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_77
       rect:
         serializedVersion: 2
         x: 272
@@ -1707,14 +1741,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55257ca967a1ccc47871aa5d600933af
-      internalID: -1991163318
+      spriteID: 2887a6555f7ed24498e0a6ba3e05de9b
+      internalID: 941243201
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_77
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_78
       rect:
         serializedVersion: 2
         x: 288
@@ -1728,14 +1762,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c8c5132f2e573f4a86deec8f18db4bc
-      internalID: 1416699530
+      spriteID: a82f7917d8974fe4286c2750ee788e48
+      internalID: 2147204899
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_78
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_79
       rect:
         serializedVersion: 2
         x: 304
@@ -1749,14 +1783,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a297a8e4a3195d419292043f79bccfe
-      internalID: 1104266627
+      spriteID: 158fa47ad92e9724a811633659a43547
+      internalID: -48799081
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_79
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_80
       rect:
         serializedVersion: 2
         x: 0
@@ -1770,14 +1804,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e2824e0f6121934b97d346f1d2dcdba
-      internalID: 665054341
+      spriteID: 30251609a71fcf8449d81c28204dbca2
+      internalID: 522931659
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_80
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_81
       rect:
         serializedVersion: 2
         x: 16
@@ -1791,14 +1825,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f93d231f84b3f7a4ca5604eb32aeda8b
-      internalID: 1207351604
+      spriteID: d71a4bdfcdd6f554ba1dcd9ab90c6740
+      internalID: -979871751
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_81
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_82
       rect:
         serializedVersion: 2
         x: 32
@@ -1812,14 +1846,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: caa56decf1e2913439964cfb8b0661b7
-      internalID: -2094873092
+      spriteID: d43d05f2315d44441b3aedf09da2a3d2
+      internalID: -283593474
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_82
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_83
       rect:
         serializedVersion: 2
         x: 48
@@ -1833,14 +1867,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7514d8f52ac2db48b593941d48f936e
-      internalID: -945285789
+      spriteID: 06cd9be9fcf75874dac9d10f79c81a08
+      internalID: 458571617
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_83
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_84
       rect:
         serializedVersion: 2
         x: 64
@@ -1854,14 +1888,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a2700b682b046d4e8d866b2af2ef466
-      internalID: -1678203515
+      spriteID: d260976378505004db7d66dead9e07c2
+      internalID: 1927358613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_84
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_85
       rect:
         serializedVersion: 2
         x: 80
@@ -1875,14 +1909,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 308bf331466070c47b5ded967b1c1395
-      internalID: -746122713
+      spriteID: 7ea01f3cd8c5b4e4eae5f0e5302f68f5
+      internalID: 577523027
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_85
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_86
       rect:
         serializedVersion: 2
         x: 96
@@ -1896,14 +1930,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c47f621cf3792ba4b8b48aa4275352d5
-      internalID: 592522350
+      spriteID: 33dcf1e94f4a1eb4bb6c697c0a509987
+      internalID: -254730196
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_86
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c105cb93e18f8c342adfd1ca613ed15f
+      internalID: -844603298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_88
       rect:
         serializedVersion: 2
         x: 224
@@ -1917,14 +1972,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a74853ac616fba4ca97c8ffd5bf0721
-      internalID: -674997080
+      spriteID: ac1288c863009a54b8d89c6b15746fe4
+      internalID: -1216319630
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_87
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_89
       rect:
         serializedVersion: 2
         x: 240
@@ -1938,14 +1993,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a1b09cc85d3e394e8c7eeb2792481a3
-      internalID: -360541576
+      spriteID: 16b6dd753e77eb24594a8134de7179d3
+      internalID: -2043379414
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_88
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_90
       rect:
         serializedVersion: 2
         x: 256
@@ -1959,14 +2014,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d954e81af28b394a92f593d19c27c0e
-      internalID: 1109941265
+      spriteID: 3e1c5a1eb322dfb48a13984262c3c5fa
+      internalID: 875194226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_89
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_91
       rect:
         serializedVersion: 2
         x: 272
@@ -1980,14 +2035,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94e95c8460e020b4c9afe476d6e1ace3
-      internalID: -50752542
+      spriteID: f20e5c0b46f3a7946b960720a736e7f5
+      internalID: 1250878451
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_90
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_92
       rect:
         serializedVersion: 2
         x: 288
@@ -2001,14 +2056,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46260ac43a396b9499a045d7e1f8a894
-      internalID: -191592140
+      spriteID: e0a7f92f97d0a484e9420d5bf9a7328b
+      internalID: 309859558
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_91
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_93
       rect:
         serializedVersion: 2
         x: 304
@@ -2022,14 +2077,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7dff71efb85893849bf7dde6fb1ba613
-      internalID: -1279252934
+      spriteID: a846055898e459640bdd65c14b4c27cd
+      internalID: -475653369
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_92
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_94
       rect:
         serializedVersion: 2
         x: 0
@@ -2043,14 +2098,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d57b0b00ded6334f880bd13eaed7022
-      internalID: 977028853
+      spriteID: b238a52dbe3fe4a4fb91d1ebaf9019e0
+      internalID: -1939473099
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_93
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_95
       rect:
         serializedVersion: 2
         x: 16
@@ -2064,14 +2119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75990f35aa72c3749abe605db471d549
-      internalID: -435405473
+      spriteID: 740e369a2bdd89d4a9117375c5566de7
+      internalID: -21676897
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_94
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_96
       rect:
         serializedVersion: 2
         x: 32
@@ -2085,14 +2140,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb941b95926778e44b7fba193364c1c6
-      internalID: -389868616
+      spriteID: 5bc651ed65d9cc047b50ef4a4f6d34ff
+      internalID: -1103410712
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_95
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_97
       rect:
         serializedVersion: 2
         x: 48
@@ -2106,14 +2161,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f5af5955d361d14f95fe66eb9814f75
-      internalID: 1981149757
+      spriteID: c493231bb2ea9494ea00aa348dc755a5
+      internalID: -1966736839
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_96
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_98
       rect:
         serializedVersion: 2
         x: 64
@@ -2127,14 +2182,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cdf89ddb585158b44ae8428b17e452e1
-      internalID: -607260404
+      spriteID: 66f7966eabea0fd47a2d471bcf369b0d
+      internalID: 1859886011
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_97
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_99
       rect:
         serializedVersion: 2
         x: 80
@@ -2148,14 +2203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9fb59d1ebdf29084fac7648761507fe0
-      internalID: -101393117
+      spriteID: 8b86ac548ddcb074cb28c01f96dd4236
+      internalID: 2075419749
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_98
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_100
       rect:
         serializedVersion: 2
         x: 96
@@ -2169,14 +2224,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b766d51686f71c48be18c10ef4c01ee
-      internalID: -1358642135
+      spriteID: 76b49bb09db728e47a7259ca5e681d62
+      internalID: -259729956
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_99
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_101
       rect:
         serializedVersion: 2
         x: 224
@@ -2190,14 +2245,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7934cc1c9c7467548aa2d92f6c3fd08b
-      internalID: -34680724
+      spriteID: a64289b891bb6a74ebd929779f117e20
+      internalID: 2077706356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_100
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_102
       rect:
         serializedVersion: 2
         x: 240
@@ -2211,14 +2266,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 617c782968c538745ae4f6263ce4820d
-      internalID: 162432058
+      spriteID: 3000260bd4b1134469a9e83ffc0467c8
+      internalID: -152392149
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_101
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_103
       rect:
         serializedVersion: 2
         x: 256
@@ -2232,14 +2287,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68dc6cf7ec212534288592f17c09be02
-      internalID: -1959531683
+      spriteID: 35d7de862effdaa428150e8be3edaa28
+      internalID: -1529774455
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_102
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_104
       rect:
         serializedVersion: 2
         x: 272
@@ -2253,14 +2308,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e7477036fbdc2c4d9efd144a2d708e7
-      internalID: 1936219530
+      spriteID: 0d71622e855e99c4eba1376c7fe50cbf
+      internalID: -1632583063
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_103
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_105
       rect:
         serializedVersion: 2
         x: 288
@@ -2274,14 +2329,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d0bc44cb601ede41a7bf6db5e9d3e3a
-      internalID: -1230740805
+      spriteID: 609469173bf747f4eaf4693a8245e1fd
+      internalID: -1075935965
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_104
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_106
       rect:
         serializedVersion: 2
         x: 304
@@ -2295,14 +2350,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 854df7d4942add64baed0c2078c24a38
-      internalID: 1888130265
+      spriteID: 43f953fb5a0ccb640a545ed29355eeaa
+      internalID: -1943389200
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_105
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_107
       rect:
         serializedVersion: 2
         x: 0
@@ -2316,14 +2371,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cfddd3b0e84f78b47b77ba40b53c16f9
-      internalID: 1152387794
+      spriteID: 2ee7bf3afd1616d4aa01aa3cda4f1aa2
+      internalID: -1239068446
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_106
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_108
       rect:
         serializedVersion: 2
         x: 16
@@ -2337,14 +2392,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b19dd38f2477ea4a94d58d99acda4d8
-      internalID: 512685599
+      spriteID: c23c8200ef30efb40842c1cacb06ad18
+      internalID: -1777943762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_107
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_109
       rect:
         serializedVersion: 2
         x: 32
@@ -2358,14 +2413,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30234b6fbbf6c4244ba18183f12f19f7
-      internalID: -997483801
+      spriteID: 6a80b2c3c22c63d489a35010f478536f
+      internalID: -849771
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_108
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_110
       rect:
         serializedVersion: 2
         x: 48
@@ -2379,14 +2434,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c69a015aeac92d43acecbbab4cedc96
-      internalID: 889182843
+      spriteID: 7e5d4f5eeacea6b41a2f5e88d05c7815
+      internalID: -1394953731
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_109
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_111
       rect:
         serializedVersion: 2
         x: 64
@@ -2400,14 +2455,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60e19959ada064c4683067d4d82e41ab
-      internalID: 1025738391
+      spriteID: c85feeb62410a4944af5d5d17a69636c
+      internalID: 1842273373
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_110
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_112
       rect:
         serializedVersion: 2
         x: 80
@@ -2421,14 +2476,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f1592e73af28c64f877cbbb0387fd2a
-      internalID: -1218420527
+      spriteID: 3ab0a11de24fcd34c8bbe38b3fc4547b
+      internalID: -1577695370
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_111
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_113
       rect:
         serializedVersion: 2
         x: 96
@@ -2442,14 +2497,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6310659125185d6468e97a006a5a6f3e
-      internalID: -916024172
+      spriteID: e6b65b99d82a2914cb0ca1811069adaf
+      internalID: 628455302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_112
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_114
       rect:
         serializedVersion: 2
         x: 112
@@ -2463,14 +2518,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5d1fe23c14b3fc4c95a26a97b3fe411
-      internalID: -803479314
+      spriteID: 43f2cac23ba6c5f468b924e44232c713
+      internalID: -75300883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_113
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_115
       rect:
         serializedVersion: 2
         x: 224
@@ -2484,14 +2539,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b8fe55936f29b94d9aa1d28ad4a6de2
-      internalID: -984213941
+      spriteID: 625ddca327843054bb8679e7f29b35c2
+      internalID: -2048831548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_114
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_116
       rect:
         serializedVersion: 2
         x: 240
@@ -2505,14 +2560,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48c1955cf7e472c4e8c1c24f4e7deeb6
-      internalID: 1392832297
+      spriteID: 21138a0dfc981a54ab17764c68e591f2
+      internalID: -758427623
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_115
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_117
       rect:
         serializedVersion: 2
         x: 256
@@ -2526,14 +2581,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d33e1c2801843d45a665e41f4b11fd5
-      internalID: -1618127023
+      spriteID: 0e3096f44b744004e8b1bb4197936cb3
+      internalID: 1274389947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_116
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_118
       rect:
         serializedVersion: 2
         x: 272
@@ -2547,14 +2602,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c820e3e9072b0046af57f2b473e26fb
-      internalID: -325476056
+      spriteID: 7062ff0ddab1cc046a800717da1c4497
+      internalID: -1200162603
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_117
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_119
       rect:
         serializedVersion: 2
         x: 288
@@ -2568,14 +2623,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db1338346cd948e4999f82f823f1858c
-      internalID: -307561232
+      spriteID: d5e62c64fd894c1489388a10f01e7a38
+      internalID: 749349297
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_118
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_120
       rect:
         serializedVersion: 2
         x: 304
@@ -2589,14 +2644,182 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6b6199dd3c99ce40963a5a1a4ae9eba
-      internalID: 1634025300
+      spriteID: 391d369159a3dc34a92eef23eaa707cd
+      internalID: -1508116146
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_119
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57360e1f57a7f443bf48091e2e41a68
+      internalID: -405681584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_122
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc85eed35051c64aaa825c1e06b3cca
+      internalID: 841126414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_123
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f7d6bb6713d4d46a2d5248a9d79269
+      internalID: -1210562749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_124
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a472079114e4dfb44a156d8a945761db
+      internalID: 1599948654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_125
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d1635ac1717804a83bba2de57a3bda
+      internalID: -39186689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_126
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413da5d9874dde743b32048461486424
+      internalID: 223720549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_127
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126f1688557b7c84da855a4357a739e9
+      internalID: -1779936572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_128
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eb589af70179d4fbdd41d4852d18d1
+      internalID: -625304529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_129
       rect:
         serializedVersion: 2
         x: 224
@@ -2610,14 +2833,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7a669058bee41849bc40f8eb1af11c3
-      internalID: -227477659
+      spriteID: 6ad7c236630591647992151b610a8944
+      internalID: 1436981685
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_120
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_130
       rect:
         serializedVersion: 2
         x: 240
@@ -2631,14 +2854,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9ac941ad4e1dc94087384800d801278
-      internalID: 1778079492
+      spriteID: eb8bf2f13be080a4db2d1d0f97007cb9
+      internalID: 2090688069
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_121
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_131
       rect:
         serializedVersion: 2
         x: 256
@@ -2652,14 +2875,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a4f928f0f3008dd42a0652768a2758e9
-      internalID: -1767544681
+      spriteID: 6bb45b6de4cda4942b720dcc764468c2
+      internalID: 691727485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_122
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_132
       rect:
         serializedVersion: 2
         x: 272
@@ -2673,14 +2896,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ead87f71cf5617844ba816975e7d5580
-      internalID: 45802875
+      spriteID: 96fcda44bf618464b87aa27d8fc932e2
+      internalID: 1797154625
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_123
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_133
       rect:
         serializedVersion: 2
         x: 288
@@ -2694,14 +2917,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 799cd86ef0f7eaf40b200edc4e09f46e
-      internalID: 859978992
+      spriteID: 95a505e363a667c44aed4aa77d588fe6
+      internalID: -259618496
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_124
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_134
       rect:
         serializedVersion: 2
         x: 304
@@ -2715,14 +2938,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 683ca4c3b836a9244adbeb272f26140b
-      internalID: 401829395
+      spriteID: ee0035aa663270f4e8ce98ac757bfbd3
+      internalID: -1486526351
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_125
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_135
       rect:
         serializedVersion: 2
         x: 0
@@ -2736,14 +2959,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ccf6e7f8ff486694c9fa8e1641fdc92a
-      internalID: 226946571
+      spriteID: 01bf210ade97f26438acfe22da51e1c1
+      internalID: -1105880065
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_126
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_136
       rect:
         serializedVersion: 2
         x: 16
@@ -2757,14 +2980,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95529627dd8e0b44b9913e11ef841875
-      internalID: 1150803321
+      spriteID: aea750b974873c646bb060c9e3404109
+      internalID: -1046463787
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_127
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_137
       rect:
         serializedVersion: 2
         x: 32
@@ -2778,14 +3001,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68707b4ae8a524149b9503fb0cbefbc1
-      internalID: 1121791973
+      spriteID: f2ce08cf5839fec47be1224dbee2a394
+      internalID: 1181988526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_128
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_138
       rect:
         serializedVersion: 2
         x: 48
@@ -2799,14 +3022,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f804b92bbbfb07b428c43a7eb20f8bf8
-      internalID: -1096567047
+      spriteID: 880b232d0b9df4941b325853ab341d32
+      internalID: -175577073
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_129
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_139
       rect:
         serializedVersion: 2
         x: 64
@@ -2820,14 +3043,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6416cc5692d37464a8165cbc2ac576f5
-      internalID: 138077855
+      spriteID: 73843bcde38cffa478dca1fa61e33b9e
+      internalID: 1140724328
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_130
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_140
       rect:
         serializedVersion: 2
         x: 80
@@ -2841,14 +3064,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89e8c316c9943414482029d41e21776b
-      internalID: -525842447
+      spriteID: ec9383bded79b5249af486b60462c78f
+      internalID: -504868499
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_131
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_141
       rect:
         serializedVersion: 2
         x: 96
@@ -2862,14 +3085,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 865cae09e805717408f397e36ca6b5db
-      internalID: -620634896
+      spriteID: c45ab8e8f3a229848953e0a6600178f9
+      internalID: -1433064555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_132
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_142
       rect:
         serializedVersion: 2
         x: 112
@@ -2883,14 +3106,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1224c4a648a20af46b335b5c8369c048
-      internalID: 974196991
+      spriteID: 33d853f489058994aae0a9f2271b226b
+      internalID: -1594482521
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_133
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_143
       rect:
         serializedVersion: 2
         x: 128
@@ -2904,14 +3127,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d8138cf857a80e4b9507f638cc54be7
-      internalID: -434815787
+      spriteID: fa958a6b7e6f2fc4fb4fa7eed6585f63
+      internalID: -517497246
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_134
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_144
       rect:
         serializedVersion: 2
         x: 144
@@ -2925,14 +3148,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 254e0ea39172b1146aeec1497f9806cc
-      internalID: -561806710
+      spriteID: e2c8c656465b4bb4e9b11c919c3d8275
+      internalID: -1161143091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_135
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_145
       rect:
         serializedVersion: 2
         x: 160
@@ -2946,14 +3169,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d7c0f1a1927421459c175d93ef097f8
-      internalID: 772183037
+      spriteID: 84a2f572cac0c764eb42b15608d20345
+      internalID: 1033754754
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_136
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_146
       rect:
         serializedVersion: 2
         x: 176
@@ -2967,14 +3190,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e0370b6bc51471439e8d9ffb26f7a41
-      internalID: -1153246442
+      spriteID: ab6df2e6f8fbdab42b1d9ec32ca168b5
+      internalID: -1331348819
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_137
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_147
       rect:
         serializedVersion: 2
         x: 192
@@ -2988,14 +3211,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d04cd4a5dd6c2742b43a429c26730fa
-      internalID: 12634849
+      spriteID: 3796a1a5520b5b64d8d411b3c22adfbd
+      internalID: 171118135
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_138
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_148
       rect:
         serializedVersion: 2
         x: 208
@@ -3009,14 +3232,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52b99fb79e4686545bbcf68eb3541e7c
-      internalID: -769252350
+      spriteID: dac4b4cbd24e7084c98887067847155b
+      internalID: -1184140945
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_139
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_149
       rect:
         serializedVersion: 2
         x: 224
@@ -3030,14 +3253,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d24d8ba674129044faec5be682c94d51
-      internalID: 1162711917
+      spriteID: 82973f7e2d14c2e419713d39083d9ebc
+      internalID: -1178076761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_140
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_150
       rect:
         serializedVersion: 2
         x: 240
@@ -3051,14 +3274,98 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09c9e2d043c9a7e41822d779d5e50a82
-      internalID: 1859872076
+      spriteID: 1e78a015468e3924a9de9cc5d40e1678
+      internalID: -1635166994
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_141
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_151
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e6874625c886d409cac167c37f8786
+      internalID: -133485599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_152
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0480202e06da54644ba2211f52aa052f
+      internalID: -330286559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f64d0035e7df84a99b3ef201c86303
+      internalID: -604693745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_154
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b29939cf574fba41a7547e2cd342135
+      internalID: 940075243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_155
       rect:
         serializedVersion: 2
         x: 0
@@ -3072,14 +3379,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2328268defea24b418c05aa911d90ad7
-      internalID: -744378960
+      spriteID: 2345c1b4b55e7ab49937315b7e1d39f9
+      internalID: -1105118637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_142
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_156
       rect:
         serializedVersion: 2
         x: 16
@@ -3093,14 +3400,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e40e5e613d9ab1441b798d6890f5c17b
-      internalID: -1435209575
+      spriteID: 7d900546d012e39429eca2aec8e1c7a5
+      internalID: -1064662016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_143
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_157
       rect:
         serializedVersion: 2
         x: 32
@@ -3114,14 +3421,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e157b821bb0454a43801bec6c0013d04
-      internalID: -1608759970
+      spriteID: 3af5a5ddbf0e67a42af33b188424d25e
+      internalID: 1013301918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_144
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_158
       rect:
         serializedVersion: 2
         x: 48
@@ -3135,14 +3442,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89489d0e3db416243a5cdcdef3c46756
-      internalID: 706903523
+      spriteID: b626f5e75689fc042b59c1559850782b
+      internalID: -786898567
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_145
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_159
       rect:
         serializedVersion: 2
         x: 64
@@ -3156,14 +3463,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8fad4e728d759e44b5955828f782474
-      internalID: -1469482766
+      spriteID: 52aabfec53acc9f498135614ff8cecc7
+      internalID: -2039899370
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_146
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_160
       rect:
         serializedVersion: 2
         x: 80
@@ -3177,14 +3484,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23054d5228f05ae4bbf945ca9a56011e
-      internalID: 2071673246
+      spriteID: b316dd45a2e208b479adebfe59a23154
+      internalID: -1554386661
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_147
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_161
       rect:
         serializedVersion: 2
         x: 96
@@ -3198,14 +3505,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27c760a110474394d9116e2ec87bd3ed
-      internalID: -120446554
+      spriteID: c2c31efd820515644b8af046d03209a5
+      internalID: 1883044093
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_148
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_162
       rect:
         serializedVersion: 2
         x: 112
@@ -3219,14 +3526,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ab277ed106895f4bad00749300e85ba
-      internalID: 1300655712
+      spriteID: 09c5a32f78d29b74e9ad7335d6b6d787
+      internalID: -513965156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_149
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_163
       rect:
         serializedVersion: 2
         x: 128
@@ -3240,14 +3547,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c188f55b0f1f1134b97c39b1a74c4066
-      internalID: -361451279
+      spriteID: 1281237e6c9050547a99422fe5034e08
+      internalID: 1484495222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_150
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_164
       rect:
         serializedVersion: 2
         x: 144
@@ -3261,14 +3568,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70af4df322b8e3e419dfc0cfef2d8985
-      internalID: 231626202
+      spriteID: 070c79234928da44e9045300fb2a98dc
+      internalID: -1741953411
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_151
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_165
       rect:
         serializedVersion: 2
         x: 160
@@ -3282,14 +3589,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a13c864f2f78e234ba2368de20b6929a
-      internalID: -1341232499
+      spriteID: cf22b75ee8483674491fd5fd9d9d4c6c
+      internalID: -1916422225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_152
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_166
       rect:
         serializedVersion: 2
         x: 176
@@ -3303,14 +3610,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 675f536f57355c14ea57496f78bc51d5
-      internalID: -428744022
+      spriteID: 838abcf741f33944db292dc3c34b0e45
+      internalID: 2082467793
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_153
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_167
       rect:
         serializedVersion: 2
         x: 192
@@ -3324,14 +3631,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4948fc4762008240b2a7b40ff45deee
-      internalID: -635800409
+      spriteID: 73939393cb643d44f8d43ab2501f5322
+      internalID: -183047247
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_154
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_168
       rect:
         serializedVersion: 2
         x: 208
@@ -3345,14 +3652,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 468a1be46f679334caa8f05eccb1994e
-      internalID: -2130102510
+      spriteID: e8d086cc2e365d04ca9f3154988594aa
+      internalID: 1361788097
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_155
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_169
       rect:
         serializedVersion: 2
         x: 224
@@ -3366,14 +3673,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9dc58c09740096f419c1532138ab1373
-      internalID: -624184628
+      spriteID: e5961b66c572231429fdcb4702e2896c
+      internalID: 132798816
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_156
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_170
       rect:
         serializedVersion: 2
         x: 240
@@ -3387,14 +3694,56 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9fd1d96726423045a587decd156c880
-      internalID: 1333098650
+      spriteID: 758db85a91db25f419ca20df4621d81f
+      internalID: -1553330181
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_157
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_171
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b404ab4988c4784cad6cd03a3e72e54
+      internalID: -321143883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_172
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9538aeb42c8aed24b96392b84e1b7fc4
+      internalID: -1713655068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_173
       rect:
         serializedVersion: 2
         x: 288
@@ -3408,14 +3757,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 595e951a14cd76f4e845e2edbed4df0c
-      internalID: -138300179
+      spriteID: 7a50047f190df8d4489b205b28ddb5c4
+      internalID: -727694548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spelunking for Sebastian Level 1 Tilemap_158
+      name: Spelunking for Sebastian Level 1 Tilemap (1)_174
       rect:
         serializedVersion: 2
         x: 304
@@ -3429,8 +3778,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97388c45e257b3243a9a16ed386d7fe0
-      internalID: -1071340097
+      spriteID: 9b252faff0edeac43b1aa50e46e7faa5
+      internalID: 1911942393
       vertices: []
       indices: 
       edges: []
@@ -3446,165 +3795,181 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Spelunking for Sebastian Level 1 Tilemap_0: -9747861
-      Spelunking for Sebastian Level 1 Tilemap_1: 610665534
-      Spelunking for Sebastian Level 1 Tilemap_10: 1771405331
-      Spelunking for Sebastian Level 1 Tilemap_100: 162432058
-      Spelunking for Sebastian Level 1 Tilemap_101: -1959531683
-      Spelunking for Sebastian Level 1 Tilemap_102: 1936219530
-      Spelunking for Sebastian Level 1 Tilemap_103: -1230740805
-      Spelunking for Sebastian Level 1 Tilemap_104: 1888130265
-      Spelunking for Sebastian Level 1 Tilemap_105: 1152387794
-      Spelunking for Sebastian Level 1 Tilemap_106: 512685599
-      Spelunking for Sebastian Level 1 Tilemap_107: -997483801
-      Spelunking for Sebastian Level 1 Tilemap_108: 889182843
-      Spelunking for Sebastian Level 1 Tilemap_109: 1025738391
-      Spelunking for Sebastian Level 1 Tilemap_11: 1050762481
-      Spelunking for Sebastian Level 1 Tilemap_110: -1218420527
-      Spelunking for Sebastian Level 1 Tilemap_111: -916024172
-      Spelunking for Sebastian Level 1 Tilemap_112: -803479314
-      Spelunking for Sebastian Level 1 Tilemap_113: -984213941
-      Spelunking for Sebastian Level 1 Tilemap_114: 1392832297
-      Spelunking for Sebastian Level 1 Tilemap_115: -1618127023
-      Spelunking for Sebastian Level 1 Tilemap_116: -325476056
-      Spelunking for Sebastian Level 1 Tilemap_117: -307561232
-      Spelunking for Sebastian Level 1 Tilemap_118: 1634025300
-      Spelunking for Sebastian Level 1 Tilemap_119: -227477659
-      Spelunking for Sebastian Level 1 Tilemap_12: 1256331592
-      Spelunking for Sebastian Level 1 Tilemap_120: 1778079492
-      Spelunking for Sebastian Level 1 Tilemap_121: -1767544681
-      Spelunking for Sebastian Level 1 Tilemap_122: 45802875
-      Spelunking for Sebastian Level 1 Tilemap_123: 859978992
-      Spelunking for Sebastian Level 1 Tilemap_124: 401829395
-      Spelunking for Sebastian Level 1 Tilemap_125: 226946571
-      Spelunking for Sebastian Level 1 Tilemap_126: 1150803321
-      Spelunking for Sebastian Level 1 Tilemap_127: 1121791973
-      Spelunking for Sebastian Level 1 Tilemap_128: -1096567047
-      Spelunking for Sebastian Level 1 Tilemap_129: 138077855
-      Spelunking for Sebastian Level 1 Tilemap_13: -29518056
-      Spelunking for Sebastian Level 1 Tilemap_130: -525842447
-      Spelunking for Sebastian Level 1 Tilemap_131: -620634896
-      Spelunking for Sebastian Level 1 Tilemap_132: 974196991
-      Spelunking for Sebastian Level 1 Tilemap_133: -434815787
-      Spelunking for Sebastian Level 1 Tilemap_134: -561806710
-      Spelunking for Sebastian Level 1 Tilemap_135: 772183037
-      Spelunking for Sebastian Level 1 Tilemap_136: -1153246442
-      Spelunking for Sebastian Level 1 Tilemap_137: 12634849
-      Spelunking for Sebastian Level 1 Tilemap_138: -769252350
-      Spelunking for Sebastian Level 1 Tilemap_139: 1162711917
-      Spelunking for Sebastian Level 1 Tilemap_14: -1875794405
-      Spelunking for Sebastian Level 1 Tilemap_140: 1859872076
-      Spelunking for Sebastian Level 1 Tilemap_141: -744378960
-      Spelunking for Sebastian Level 1 Tilemap_142: -1435209575
-      Spelunking for Sebastian Level 1 Tilemap_143: -1608759970
-      Spelunking for Sebastian Level 1 Tilemap_144: 706903523
-      Spelunking for Sebastian Level 1 Tilemap_145: -1469482766
-      Spelunking for Sebastian Level 1 Tilemap_146: 2071673246
-      Spelunking for Sebastian Level 1 Tilemap_147: -120446554
-      Spelunking for Sebastian Level 1 Tilemap_148: 1300655712
-      Spelunking for Sebastian Level 1 Tilemap_149: -361451279
-      Spelunking for Sebastian Level 1 Tilemap_15: 44868416
-      Spelunking for Sebastian Level 1 Tilemap_150: 231626202
-      Spelunking for Sebastian Level 1 Tilemap_151: -1341232499
-      Spelunking for Sebastian Level 1 Tilemap_152: -428744022
-      Spelunking for Sebastian Level 1 Tilemap_153: -635800409
-      Spelunking for Sebastian Level 1 Tilemap_154: -2130102510
-      Spelunking for Sebastian Level 1 Tilemap_155: -624184628
-      Spelunking for Sebastian Level 1 Tilemap_156: 1333098650
-      Spelunking for Sebastian Level 1 Tilemap_157: -138300179
-      Spelunking for Sebastian Level 1 Tilemap_158: -1071340097
-      Spelunking for Sebastian Level 1 Tilemap_16: 3894994
-      Spelunking for Sebastian Level 1 Tilemap_17: 1936238
-      Spelunking for Sebastian Level 1 Tilemap_18: 897186183
-      Spelunking for Sebastian Level 1 Tilemap_19: 1138738039
-      Spelunking for Sebastian Level 1 Tilemap_2: -2107734021
-      Spelunking for Sebastian Level 1 Tilemap_20: 48301895
-      Spelunking for Sebastian Level 1 Tilemap_21: -1984754815
-      Spelunking for Sebastian Level 1 Tilemap_22: 637858472
-      Spelunking for Sebastian Level 1 Tilemap_23: 752974426
-      Spelunking for Sebastian Level 1 Tilemap_24: 1962319379
-      Spelunking for Sebastian Level 1 Tilemap_25: 521791086
-      Spelunking for Sebastian Level 1 Tilemap_26: -2036410541
-      Spelunking for Sebastian Level 1 Tilemap_27: 92282715
-      Spelunking for Sebastian Level 1 Tilemap_28: 1647827224
-      Spelunking for Sebastian Level 1 Tilemap_29: 1711839174
-      Spelunking for Sebastian Level 1 Tilemap_3: -1929884911
-      Spelunking for Sebastian Level 1 Tilemap_30: -427559527
-      Spelunking for Sebastian Level 1 Tilemap_31: 875309904
-      Spelunking for Sebastian Level 1 Tilemap_32: -206159701
-      Spelunking for Sebastian Level 1 Tilemap_33: -343945036
-      Spelunking for Sebastian Level 1 Tilemap_34: -2001026773
-      Spelunking for Sebastian Level 1 Tilemap_35: -400509986
-      Spelunking for Sebastian Level 1 Tilemap_36: 1026159222
-      Spelunking for Sebastian Level 1 Tilemap_37: 723089039
-      Spelunking for Sebastian Level 1 Tilemap_38: -1995429238
-      Spelunking for Sebastian Level 1 Tilemap_39: 22226415
-      Spelunking for Sebastian Level 1 Tilemap_4: -652956389
-      Spelunking for Sebastian Level 1 Tilemap_40: -204625407
-      Spelunking for Sebastian Level 1 Tilemap_41: 510765524
-      Spelunking for Sebastian Level 1 Tilemap_42: -733906998
-      Spelunking for Sebastian Level 1 Tilemap_43: -1850578884
-      Spelunking for Sebastian Level 1 Tilemap_44: 1383754719
-      Spelunking for Sebastian Level 1 Tilemap_45: -1157819572
-      Spelunking for Sebastian Level 1 Tilemap_46: 2082905069
-      Spelunking for Sebastian Level 1 Tilemap_47: -1527414499
-      Spelunking for Sebastian Level 1 Tilemap_48: 612809053
-      Spelunking for Sebastian Level 1 Tilemap_49: 1912724248
-      Spelunking for Sebastian Level 1 Tilemap_5: -385303328
-      Spelunking for Sebastian Level 1 Tilemap_50: -2101001637
-      Spelunking for Sebastian Level 1 Tilemap_51: -1045165422
-      Spelunking for Sebastian Level 1 Tilemap_52: 5955825
-      Spelunking for Sebastian Level 1 Tilemap_53: 437895158
-      Spelunking for Sebastian Level 1 Tilemap_54: 1789102055
-      Spelunking for Sebastian Level 1 Tilemap_55: -1893999063
-      Spelunking for Sebastian Level 1 Tilemap_56: 1017806098
-      Spelunking for Sebastian Level 1 Tilemap_57: -894062997
-      Spelunking for Sebastian Level 1 Tilemap_58: 1297265770
-      Spelunking for Sebastian Level 1 Tilemap_59: -304454843
-      Spelunking for Sebastian Level 1 Tilemap_6: 1719235865
-      Spelunking for Sebastian Level 1 Tilemap_60: -37643250
-      Spelunking for Sebastian Level 1 Tilemap_61: -2083607414
-      Spelunking for Sebastian Level 1 Tilemap_62: 247509113
-      Spelunking for Sebastian Level 1 Tilemap_63: 1372644098
-      Spelunking for Sebastian Level 1 Tilemap_64: 615192748
-      Spelunking for Sebastian Level 1 Tilemap_65: -1745291260
-      Spelunking for Sebastian Level 1 Tilemap_66: 892886126
-      Spelunking for Sebastian Level 1 Tilemap_67: 1192011907
-      Spelunking for Sebastian Level 1 Tilemap_68: 1927577882
-      Spelunking for Sebastian Level 1 Tilemap_69: 218282164
-      Spelunking for Sebastian Level 1 Tilemap_7: -584842484
-      Spelunking for Sebastian Level 1 Tilemap_70: 566188615
-      Spelunking for Sebastian Level 1 Tilemap_71: 407186363
-      Spelunking for Sebastian Level 1 Tilemap_72: 1415937190
-      Spelunking for Sebastian Level 1 Tilemap_73: -1650045578
-      Spelunking for Sebastian Level 1 Tilemap_74: 1497069168
-      Spelunking for Sebastian Level 1 Tilemap_75: -1528073514
-      Spelunking for Sebastian Level 1 Tilemap_76: -1991163318
-      Spelunking for Sebastian Level 1 Tilemap_77: 1416699530
-      Spelunking for Sebastian Level 1 Tilemap_78: 1104266627
-      Spelunking for Sebastian Level 1 Tilemap_79: 665054341
-      Spelunking for Sebastian Level 1 Tilemap_8: -451498863
-      Spelunking for Sebastian Level 1 Tilemap_80: 1207351604
-      Spelunking for Sebastian Level 1 Tilemap_81: -2094873092
-      Spelunking for Sebastian Level 1 Tilemap_82: -945285789
-      Spelunking for Sebastian Level 1 Tilemap_83: -1678203515
-      Spelunking for Sebastian Level 1 Tilemap_84: -746122713
-      Spelunking for Sebastian Level 1 Tilemap_85: 592522350
-      Spelunking for Sebastian Level 1 Tilemap_86: -674997080
-      Spelunking for Sebastian Level 1 Tilemap_87: -360541576
-      Spelunking for Sebastian Level 1 Tilemap_88: 1109941265
-      Spelunking for Sebastian Level 1 Tilemap_89: -50752542
-      Spelunking for Sebastian Level 1 Tilemap_9: -1854877393
-      Spelunking for Sebastian Level 1 Tilemap_90: -191592140
-      Spelunking for Sebastian Level 1 Tilemap_91: -1279252934
-      Spelunking for Sebastian Level 1 Tilemap_92: 977028853
-      Spelunking for Sebastian Level 1 Tilemap_93: -435405473
-      Spelunking for Sebastian Level 1 Tilemap_94: -389868616
-      Spelunking for Sebastian Level 1 Tilemap_95: 1981149757
-      Spelunking for Sebastian Level 1 Tilemap_96: -607260404
-      Spelunking for Sebastian Level 1 Tilemap_97: -101393117
-      Spelunking for Sebastian Level 1 Tilemap_98: -1358642135
-      Spelunking for Sebastian Level 1 Tilemap_99: -34680724
+      Spelunking for Sebastian Level 1 Tilemap (1)_0: -1789239029
+      Spelunking for Sebastian Level 1 Tilemap (1)_1: 1991592508
+      Spelunking for Sebastian Level 1 Tilemap (1)_10: 952508825
+      Spelunking for Sebastian Level 1 Tilemap (1)_100: -259729956
+      Spelunking for Sebastian Level 1 Tilemap (1)_101: 2077706356
+      Spelunking for Sebastian Level 1 Tilemap (1)_102: -152392149
+      Spelunking for Sebastian Level 1 Tilemap (1)_103: -1529774455
+      Spelunking for Sebastian Level 1 Tilemap (1)_104: -1632583063
+      Spelunking for Sebastian Level 1 Tilemap (1)_105: -1075935965
+      Spelunking for Sebastian Level 1 Tilemap (1)_106: -1943389200
+      Spelunking for Sebastian Level 1 Tilemap (1)_107: -1239068446
+      Spelunking for Sebastian Level 1 Tilemap (1)_108: -1777943762
+      Spelunking for Sebastian Level 1 Tilemap (1)_109: -849771
+      Spelunking for Sebastian Level 1 Tilemap (1)_11: 824947730
+      Spelunking for Sebastian Level 1 Tilemap (1)_110: -1394953731
+      Spelunking for Sebastian Level 1 Tilemap (1)_111: 1842273373
+      Spelunking for Sebastian Level 1 Tilemap (1)_112: -1577695370
+      Spelunking for Sebastian Level 1 Tilemap (1)_113: 628455302
+      Spelunking for Sebastian Level 1 Tilemap (1)_114: -75300883
+      Spelunking for Sebastian Level 1 Tilemap (1)_115: -2048831548
+      Spelunking for Sebastian Level 1 Tilemap (1)_116: -758427623
+      Spelunking for Sebastian Level 1 Tilemap (1)_117: 1274389947
+      Spelunking for Sebastian Level 1 Tilemap (1)_118: -1200162603
+      Spelunking for Sebastian Level 1 Tilemap (1)_119: 749349297
+      Spelunking for Sebastian Level 1 Tilemap (1)_12: -1985553429
+      Spelunking for Sebastian Level 1 Tilemap (1)_120: -1508116146
+      Spelunking for Sebastian Level 1 Tilemap (1)_121: -405681584
+      Spelunking for Sebastian Level 1 Tilemap (1)_122: 841126414
+      Spelunking for Sebastian Level 1 Tilemap (1)_123: -1210562749
+      Spelunking for Sebastian Level 1 Tilemap (1)_124: 1599948654
+      Spelunking for Sebastian Level 1 Tilemap (1)_125: -39186689
+      Spelunking for Sebastian Level 1 Tilemap (1)_126: 223720549
+      Spelunking for Sebastian Level 1 Tilemap (1)_127: -1779936572
+      Spelunking for Sebastian Level 1 Tilemap (1)_128: -625304529
+      Spelunking for Sebastian Level 1 Tilemap (1)_129: 1436981685
+      Spelunking for Sebastian Level 1 Tilemap (1)_13: -1704285431
+      Spelunking for Sebastian Level 1 Tilemap (1)_130: 2090688069
+      Spelunking for Sebastian Level 1 Tilemap (1)_131: 691727485
+      Spelunking for Sebastian Level 1 Tilemap (1)_132: 1797154625
+      Spelunking for Sebastian Level 1 Tilemap (1)_133: -259618496
+      Spelunking for Sebastian Level 1 Tilemap (1)_134: -1486526351
+      Spelunking for Sebastian Level 1 Tilemap (1)_135: -1105880065
+      Spelunking for Sebastian Level 1 Tilemap (1)_136: -1046463787
+      Spelunking for Sebastian Level 1 Tilemap (1)_137: 1181988526
+      Spelunking for Sebastian Level 1 Tilemap (1)_138: -175577073
+      Spelunking for Sebastian Level 1 Tilemap (1)_139: 1140724328
+      Spelunking for Sebastian Level 1 Tilemap (1)_14: 2084397799
+      Spelunking for Sebastian Level 1 Tilemap (1)_140: -504868499
+      Spelunking for Sebastian Level 1 Tilemap (1)_141: -1433064555
+      Spelunking for Sebastian Level 1 Tilemap (1)_142: -1594482521
+      Spelunking for Sebastian Level 1 Tilemap (1)_143: -517497246
+      Spelunking for Sebastian Level 1 Tilemap (1)_144: -1161143091
+      Spelunking for Sebastian Level 1 Tilemap (1)_145: 1033754754
+      Spelunking for Sebastian Level 1 Tilemap (1)_146: -1331348819
+      Spelunking for Sebastian Level 1 Tilemap (1)_147: 171118135
+      Spelunking for Sebastian Level 1 Tilemap (1)_148: -1184140945
+      Spelunking for Sebastian Level 1 Tilemap (1)_149: -1178076761
+      Spelunking for Sebastian Level 1 Tilemap (1)_15: 1853287021
+      Spelunking for Sebastian Level 1 Tilemap (1)_150: -1635166994
+      Spelunking for Sebastian Level 1 Tilemap (1)_151: -133485599
+      Spelunking for Sebastian Level 1 Tilemap (1)_152: -330286559
+      Spelunking for Sebastian Level 1 Tilemap (1)_153: -604693745
+      Spelunking for Sebastian Level 1 Tilemap (1)_154: 940075243
+      Spelunking for Sebastian Level 1 Tilemap (1)_155: -1105118637
+      Spelunking for Sebastian Level 1 Tilemap (1)_156: -1064662016
+      Spelunking for Sebastian Level 1 Tilemap (1)_157: 1013301918
+      Spelunking for Sebastian Level 1 Tilemap (1)_158: -786898567
+      Spelunking for Sebastian Level 1 Tilemap (1)_159: -2039899370
+      Spelunking for Sebastian Level 1 Tilemap (1)_16: 2016541504
+      Spelunking for Sebastian Level 1 Tilemap (1)_160: -1554386661
+      Spelunking for Sebastian Level 1 Tilemap (1)_161: 1883044093
+      Spelunking for Sebastian Level 1 Tilemap (1)_162: -513965156
+      Spelunking for Sebastian Level 1 Tilemap (1)_163: 1484495222
+      Spelunking for Sebastian Level 1 Tilemap (1)_164: -1741953411
+      Spelunking for Sebastian Level 1 Tilemap (1)_165: -1916422225
+      Spelunking for Sebastian Level 1 Tilemap (1)_166: 2082467793
+      Spelunking for Sebastian Level 1 Tilemap (1)_167: -183047247
+      Spelunking for Sebastian Level 1 Tilemap (1)_168: 1361788097
+      Spelunking for Sebastian Level 1 Tilemap (1)_169: 132798816
+      Spelunking for Sebastian Level 1 Tilemap (1)_17: 1648110766
+      Spelunking for Sebastian Level 1 Tilemap (1)_170: -1553330181
+      Spelunking for Sebastian Level 1 Tilemap (1)_171: -321143883
+      Spelunking for Sebastian Level 1 Tilemap (1)_172: -1713655068
+      Spelunking for Sebastian Level 1 Tilemap (1)_173: -727694548
+      Spelunking for Sebastian Level 1 Tilemap (1)_174: 1911942393
+      Spelunking for Sebastian Level 1 Tilemap (1)_18: 1798577137
+      Spelunking for Sebastian Level 1 Tilemap (1)_19: 1581755905
+      Spelunking for Sebastian Level 1 Tilemap (1)_2: -1303637948
+      Spelunking for Sebastian Level 1 Tilemap (1)_20: -1578507765
+      Spelunking for Sebastian Level 1 Tilemap (1)_21: -101328948
+      Spelunking for Sebastian Level 1 Tilemap (1)_22: 1417256695
+      Spelunking for Sebastian Level 1 Tilemap (1)_23: -326125952
+      Spelunking for Sebastian Level 1 Tilemap (1)_24: -390371373
+      Spelunking for Sebastian Level 1 Tilemap (1)_25: 507658529
+      Spelunking for Sebastian Level 1 Tilemap (1)_26: -501704107
+      Spelunking for Sebastian Level 1 Tilemap (1)_27: 1778555586
+      Spelunking for Sebastian Level 1 Tilemap (1)_28: 1897322875
+      Spelunking for Sebastian Level 1 Tilemap (1)_29: 1020676286
+      Spelunking for Sebastian Level 1 Tilemap (1)_3: 434371097
+      Spelunking for Sebastian Level 1 Tilemap (1)_30: 441237782
+      Spelunking for Sebastian Level 1 Tilemap (1)_31: 1331742742
+      Spelunking for Sebastian Level 1 Tilemap (1)_32: -409301813
+      Spelunking for Sebastian Level 1 Tilemap (1)_33: -843469927
+      Spelunking for Sebastian Level 1 Tilemap (1)_34: 832112842
+      Spelunking for Sebastian Level 1 Tilemap (1)_35: -954033676
+      Spelunking for Sebastian Level 1 Tilemap (1)_36: -487548792
+      Spelunking for Sebastian Level 1 Tilemap (1)_37: -1347274236
+      Spelunking for Sebastian Level 1 Tilemap (1)_38: -659450382
+      Spelunking for Sebastian Level 1 Tilemap (1)_39: -1330093979
+      Spelunking for Sebastian Level 1 Tilemap (1)_4: 436604168
+      Spelunking for Sebastian Level 1 Tilemap (1)_40: 1568941405
+      Spelunking for Sebastian Level 1 Tilemap (1)_41: -1450036217
+      Spelunking for Sebastian Level 1 Tilemap (1)_42: 840127768
+      Spelunking for Sebastian Level 1 Tilemap (1)_43: 864184114
+      Spelunking for Sebastian Level 1 Tilemap (1)_44: 701803605
+      Spelunking for Sebastian Level 1 Tilemap (1)_45: 1736803339
+      Spelunking for Sebastian Level 1 Tilemap (1)_46: 1669724069
+      Spelunking for Sebastian Level 1 Tilemap (1)_47: -101416609
+      Spelunking for Sebastian Level 1 Tilemap (1)_48: -2049700794
+      Spelunking for Sebastian Level 1 Tilemap (1)_49: 1431121729
+      Spelunking for Sebastian Level 1 Tilemap (1)_5: 1615249559
+      Spelunking for Sebastian Level 1 Tilemap (1)_50: -1297970158
+      Spelunking for Sebastian Level 1 Tilemap (1)_51: -1968707202
+      Spelunking for Sebastian Level 1 Tilemap (1)_52: 784578844
+      Spelunking for Sebastian Level 1 Tilemap (1)_53: 1942961622
+      Spelunking for Sebastian Level 1 Tilemap (1)_54: -604888249
+      Spelunking for Sebastian Level 1 Tilemap (1)_55: 896167554
+      Spelunking for Sebastian Level 1 Tilemap (1)_56: -1587687728
+      Spelunking for Sebastian Level 1 Tilemap (1)_57: -1539094647
+      Spelunking for Sebastian Level 1 Tilemap (1)_58: -1784557309
+      Spelunking for Sebastian Level 1 Tilemap (1)_59: -1804113327
+      Spelunking for Sebastian Level 1 Tilemap (1)_6: 166594041
+      Spelunking for Sebastian Level 1 Tilemap (1)_60: 299299450
+      Spelunking for Sebastian Level 1 Tilemap (1)_61: -366267576
+      Spelunking for Sebastian Level 1 Tilemap (1)_62: 803340716
+      Spelunking for Sebastian Level 1 Tilemap (1)_63: -396619035
+      Spelunking for Sebastian Level 1 Tilemap (1)_64: 2009151906
+      Spelunking for Sebastian Level 1 Tilemap (1)_65: 1522001042
+      Spelunking for Sebastian Level 1 Tilemap (1)_66: 1251831163
+      Spelunking for Sebastian Level 1 Tilemap (1)_67: -454374290
+      Spelunking for Sebastian Level 1 Tilemap (1)_68: 2009667880
+      Spelunking for Sebastian Level 1 Tilemap (1)_69: 864414716
+      Spelunking for Sebastian Level 1 Tilemap (1)_7: -1703521681
+      Spelunking for Sebastian Level 1 Tilemap (1)_70: 1524144510
+      Spelunking for Sebastian Level 1 Tilemap (1)_71: 1843485980
+      Spelunking for Sebastian Level 1 Tilemap (1)_72: 405297596
+      Spelunking for Sebastian Level 1 Tilemap (1)_73: 2105712902
+      Spelunking for Sebastian Level 1 Tilemap (1)_74: -1444627907
+      Spelunking for Sebastian Level 1 Tilemap (1)_75: 419684534
+      Spelunking for Sebastian Level 1 Tilemap (1)_76: 829422361
+      Spelunking for Sebastian Level 1 Tilemap (1)_77: 941243201
+      Spelunking for Sebastian Level 1 Tilemap (1)_78: 2147204899
+      Spelunking for Sebastian Level 1 Tilemap (1)_79: -48799081
+      Spelunking for Sebastian Level 1 Tilemap (1)_8: -657792034
+      Spelunking for Sebastian Level 1 Tilemap (1)_80: 522931659
+      Spelunking for Sebastian Level 1 Tilemap (1)_81: -979871751
+      Spelunking for Sebastian Level 1 Tilemap (1)_82: -283593474
+      Spelunking for Sebastian Level 1 Tilemap (1)_83: 458571617
+      Spelunking for Sebastian Level 1 Tilemap (1)_84: 1927358613
+      Spelunking for Sebastian Level 1 Tilemap (1)_85: 577523027
+      Spelunking for Sebastian Level 1 Tilemap (1)_86: -254730196
+      Spelunking for Sebastian Level 1 Tilemap (1)_87: -844603298
+      Spelunking for Sebastian Level 1 Tilemap (1)_88: -1216319630
+      Spelunking for Sebastian Level 1 Tilemap (1)_89: -2043379414
+      Spelunking for Sebastian Level 1 Tilemap (1)_9: -1960957284
+      Spelunking for Sebastian Level 1 Tilemap (1)_90: 875194226
+      Spelunking for Sebastian Level 1 Tilemap (1)_91: 1250878451
+      Spelunking for Sebastian Level 1 Tilemap (1)_92: 309859558
+      Spelunking for Sebastian Level 1 Tilemap (1)_93: -475653369
+      Spelunking for Sebastian Level 1 Tilemap (1)_94: -1939473099
+      Spelunking for Sebastian Level 1 Tilemap (1)_95: -21676897
+      Spelunking for Sebastian Level 1 Tilemap (1)_96: -1103410712
+      Spelunking for Sebastian Level 1 Tilemap (1)_97: -1966736839
+      Spelunking for Sebastian Level 1 Tilemap (1)_98: 1859886011
+      Spelunking for Sebastian Level 1 Tilemap (1)_99: 2075419749
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
