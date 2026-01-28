@@ -5,8 +5,11 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 public class PlayerHealth : MonoBehaviour
 {
+    public GameObject prefab;
+    public float shootSpeed = 10f;
+    public float bulletLifetime = 2f;
     //store the players health
-    public float health = 10;
+    public float health = 3;
     float maxHealth;
     public Image healthBar;
     //if we collide with something tagged as enemy, take damage
@@ -23,6 +26,19 @@ public class PlayerHealth : MonoBehaviour
                 //if health is too low, reload the level
                 SceneManager.LoadScene(SceneManager.GetActiveScene().name);
             }
+            //get the mouse's position in the game
+            Vector3 mousePos = Input.mousePosition;
+            mousePos = Camera.main.ScreenToWorldPoint(mousePos);
+            Debug.Log(mousePos);
+            mousePos.z = 0;
+            //spawn a bullet
+            GameObject bullet = Instantiate(prefab, transform.position, Quaternion.identity);
+            //push the bullet in the direction of the mouse
+            //destination (mousePosition) - starting position (transform.position)
+            Vector3 mouseDir = mousePos - transform.position;
+            mouseDir.Normalize();
+            bullet.GetComponent<Rigidbody2D>().velocity = mouseDir * shootSpeed;
+            Destroy(bullet, bulletLifetime);
         }
         //if we collide with the health pack collectable
         if(collision.gameObject.tag == "HealthPack")
