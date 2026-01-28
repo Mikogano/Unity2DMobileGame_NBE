@@ -1,10 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
     public float moveSpeed = 10f;
+    [SerializeField] private InputActionReference moveActionToUse;
+    [SerializeField] public float speed;
     // Start is called before the first frame update
     void Start()
     {
@@ -14,6 +17,8 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        Vector2 moveDirection = moveActionToUse.action.ReadValue<Vector2>();
+        transform.Translate(moveDirection * moveSpeed * Time.deltaTime);
         //check for user input for top-down movement 
         //vertical and horizontal directional input
         //horizontal = x input = a, d
