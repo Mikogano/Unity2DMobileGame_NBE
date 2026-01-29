@@ -3300,6 +3300,8 @@ GameObject:
   - component: {fileID: 1704285778}
   - component: {fileID: 1704285783}
   - component: {fileID: 1704285784}
+  - component: {fileID: 1704285786}
+  - component: {fileID: 1704285785}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -3319,7 +3321,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a02d7a4e5404374fb0c0e3e8fb7d649, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 10
+  moveSpeed: 5
   moveActionToUse: {fileID: -4104397980363612221, guid: 43e266756632e6c43b3dbcb87a9e14c1, type: 3}
   speed: 0
 --- !u!50 &1704285779
@@ -3509,6 +3511,39 @@ MonoBehaviour:
   bulletLifetime: 2
   health: 3
   healthBar: {fileID: 666146411}
+--- !u!95 &1704285785
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1704285777}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e4451473f5572e545bbb7ad2eeb56203, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1704285786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1704285777}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b8450538dc1c28448eb150e422e5728, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1802781947
 GameObject:
   m_ObjectHideFlags: 0
@@ -4155,6 +4190,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2346731767273471024, guid: 7250dbac1536343429663621c1b5d44e, type: 3}
+      propertyPath: m_text
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 2421991500136222367, guid: 7250dbac1536343429663621c1b5d44e, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -4239,6 +4278,26 @@ PrefabInstance:
       propertyPath: newCanvasGameObject
       value: 
       objectReference: {fileID: 476169957}
+    - target: {fileID: 3730789270138923258, guid: 7250dbac1536343429663621c1b5d44e, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 160
+      objectReference: {fileID: 0}
+    - target: {fileID: 3730789270138923258, guid: 7250dbac1536343429663621c1b5d44e, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -100
+      objectReference: {fileID: 0}
+    - target: {fileID: 3730789270138923258, guid: 7250dbac1536343429663621c1b5d44e, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -100
+      objectReference: {fileID: 0}
+    - target: {fileID: 4514078312036956824, guid: 7250dbac1536343429663621c1b5d44e, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4514078312036956824, guid: 7250dbac1536343429663621c1b5d44e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 83cc68c6c335f3a42aa1e248b03412f2, type: 3}
     - target: {fileID: 7356171335025811239, guid: 7250dbac1536343429663621c1b5d44e, type: 3}
       propertyPath: m_Name
       value: Player UI
