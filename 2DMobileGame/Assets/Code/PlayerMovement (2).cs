@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -8,15 +9,21 @@ public class PlayerMovement : MonoBehaviour
     public float moveSpeed = 10f;
     [SerializeField] private InputActionReference moveActionToUse;
     [SerializeField] public float speed;
+    [SerializeField] public float speedBoost = 2f;
+    public float timer = 10;
+    public SpriteRenderer spriteRenderer;
+    public AudioSource audioSource;
+    public AudioClip speedUp;
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
+        timer += Time.deltaTime;
         Vector2 moveDirection = moveActionToUse.action.ReadValue<Vector2>();
         transform.Translate(moveDirection * moveSpeed * Time.deltaTime);
         //check for user input for top-down movement 
@@ -34,5 +41,22 @@ public class PlayerMovement : MonoBehaviour
         //create a new moveDirection variable to combine x, y input
         Vector2 moveDir = new Vector2(moveX, moveY);
         GetComponent<Rigidbody2D>().velocity = moveDir * moveSpeed;
+        if (timer >= 10)
+        {
+            moveSpeed = speed;
+        }
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "SpeedBoost")
+        {
+            moveSpeed = moveSpeed * speedBoost;
+            timer = 0;
+            Destroy(collision.gameObject);
+            if (audioSource != null)
+            {
+                audioSource.PlayOneShot(speedUp);
+            }
+        }
     }
 }

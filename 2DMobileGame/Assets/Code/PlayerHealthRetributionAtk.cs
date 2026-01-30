@@ -5,7 +5,14 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 public class PlayerHealth : MonoBehaviour
 {
+    public AudioSource audioSource;
+    public AudioClip playerDamage;
+
+    float Timer = 0f;
+    public float flashRed = 0.1f;
+
     public GameObject prefab;
+    public GameObject newCanvasGameObject;
     public float shootSpeed = 10f;
     public float bulletLifetime = 2f;
     //store the players health
@@ -19,12 +26,19 @@ public class PlayerHealth : MonoBehaviour
     {
         if(collision.gameObject.tag == "Enemy")
         {
+            Timer = 0f;
+            if (audioSource != null)
+            {
+                audioSource.PlayOneShot(playerDamage);
+            }
+            GetComponent<SpriteRenderer>().color = new Color(1.0f, 0.0f, 0.0f, 1.0f);
             health--;
             healthBar.fillAmount = health / maxHealth;
             if (health <= 0)
             {
-                //if health is too low, reload the level
-                SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+                GetComponent<SpriteRenderer>().color = new Color(1.0f, 1.0f, 1.0f, 1.0f);
+                newCanvasGameObject.SetActive(true); //activate a new canvas (whatever you select)
+                Time.timeScale = 0f;
             }
             //get the mouse's position in the game
             Vector3 mousePos = Input.mousePosition;
@@ -65,6 +79,10 @@ public class PlayerHealth : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Timer += Time.deltaTime;
+        if (Timer > flashRed)
+        {
+            GetComponent<SpriteRenderer>().color = new Color(1.0f, 1.0f, 1.0f, 1.0f);
+        }
     }
 }

@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class EnemyHealth : MonoBehaviour
 {
+    public AudioSource audioSource;
+    public AudioClip enemyDamage;
     public int health = 3;
     // Start is called before the first frame update
     void Start()
@@ -22,6 +24,10 @@ public class EnemyHealth : MonoBehaviour
         //when I am hit by a player bullet
         if (collision.gameObject.tag == "PlayerBullet")
         {
+            if (audioSource != null)
+            {
+                audioSource.PlayOneShot(enemyDamage);
+            }
             //destroy the bullet
             Destroy(collision.gameObject);
             //reduce my hp

@@ -6,6 +6,11 @@ using UnityEngine.SceneManagement;
 
 public class Collectables : MonoBehaviour
 {
+    public AudioSource audioSource;
+    public AudioClip wompWomp;
+
+    public GameObject headChest;
+
     public string levelToLoad;
     public bool realChest = false;
     public bool fakeChest = false;
@@ -13,12 +18,13 @@ public class Collectables : MonoBehaviour
     public bool hasChest = false;
     //whenever we collide with a new collectable, add to my variable
     //destroy the collected item so we can't spam collect 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         Debug.Log(collision.gameObject.name);
         //check to see if we hit a coin specifically
         if(collision.gameObject.tag == "Chest" && (hasChest == false))
         {
+            headChest.SetActive(true);
             hasChest = true;
             //Destroy the coin game object that we hit
             Destroy(collision.gameObject);
@@ -26,6 +32,7 @@ public class Collectables : MonoBehaviour
         }
         if (collision.gameObject.tag == "fakeChest" && (hasChest == false))
         {
+            headChest.SetActive(true);
             hasChest = true;
             //Destroy the coin game object that we hit
             Destroy(collision.gameObject);
@@ -35,6 +42,7 @@ public class Collectables : MonoBehaviour
         {
             if(hasChest == true)
             {
+                headChest.SetActive(false);
                 if (realChest == true)
                 {
                     hasChest= false;
@@ -43,6 +51,10 @@ public class Collectables : MonoBehaviour
                 }
                 if (fakeChest == true)
                 {
+                    if (audioSource != null)
+                    {
+                        audioSource.PlayOneShot(wompWomp);
+                    }
                     hasChest = false;
                     fakeChest = false;
                 }
