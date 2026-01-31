@@ -8,10 +8,14 @@ public class Collectables : MonoBehaviour
 {
     public AudioSource audioSource;
     public AudioClip wompWomp;
+    public AudioClip CORRECT;
 
     public GameObject headChest;
 
+    public float Timer = 0f;
+
     public string levelToLoad;
+    private bool IsTimerRunning = false;
     public bool realChest = false;
     public bool fakeChest = false;
     //store the number of collected items in a variable
@@ -45,9 +49,14 @@ public class Collectables : MonoBehaviour
                 headChest.SetActive(false);
                 if (realChest == true)
                 {
-                    hasChest= false;
-                    realChest= false;
-                    SceneManager.LoadScene(levelToLoad);
+                    IsTimerRunning = true;
+                    hasChest = false;
+                    realChest = false;
+                    if (audioSource != null)
+                    {
+                        audioSource.PlayOneShot(CORRECT);
+                    }
+
                 }
                 if (fakeChest == true)
                 {
@@ -71,6 +80,14 @@ public class Collectables : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (IsTimerRunning == true)
+        {
+            Timer += Time.deltaTime;
+            if (Timer >= 3f)
+            {
+                SceneManager.LoadScene(levelToLoad);
+            }
+        }
+
     }
 }

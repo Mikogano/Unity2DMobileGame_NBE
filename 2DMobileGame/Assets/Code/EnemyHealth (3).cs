@@ -22,7 +22,7 @@ public class EnemyHealth : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         //when I am hit by a player bullet
-        if (collision.gameObject.tag == "PlayerBullet")
+        if (collision.gameObject.tag == "PlayerBullet" || collision.gameObject.tag == "SafePlace")
         {
             if (audioSource != null)
             {

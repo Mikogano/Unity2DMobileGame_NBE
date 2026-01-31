@@ -1231,4 +1231,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e673758d126358947b52f73235265cf0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelToLoad: 
+  levelToLoad: MainMenu

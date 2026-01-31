@@ -10,6 +10,8 @@ TagManager:
   - fakeChest
   - DropPoint
   - SpeedBoost
+  - Spawner
+  - SafePlace
   layers:
   - Default
   - TransparentFX
