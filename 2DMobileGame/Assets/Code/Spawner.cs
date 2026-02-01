@@ -7,6 +7,8 @@ public class Spawner : MonoBehaviour
 {
     // Public Floats
     public float Timer = 0f;
+    public float SpawnInterval = 10f;
+    // Public GameObjects
     public GameObject prefab;
     // Start is called before the first frame update
     void Start()
@@ -21,7 +23,7 @@ public class Spawner : MonoBehaviour
     }
     private void OnTriggerStay2D(Collider2D collision)
     {
-        if (Timer >= 10f)
+        if (Timer >= SpawnInterval)
         {
             Timer = 0f;
             if (!(collision.gameObject.tag == "Enemy"))
