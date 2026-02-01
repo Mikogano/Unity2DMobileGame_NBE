@@ -31,7 +31,7 @@ public class MusicSwitcher : MonoBehaviour
         }
 
     }
-    void OnTriggerExit2D(Collider collision)
+    void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "SafePlace")
         {
