@@ -69,6 +69,26 @@ public class PlayerHealth : MonoBehaviour
             }
         }
     }
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Enemy")
+        {
+            Timer = 0f;
+            if (audioSource != null)
+            {
+                audioSource.PlayOneShot(playerDamage);
+            }
+            GetComponent<SpriteRenderer>().color = new Color(1.0f, 0.0f, 0.0f, 1.0f);
+            health--;
+            healthBar.fillAmount = health / maxHealth;
+            if (health <= 0)
+            {
+                GetComponent<SpriteRenderer>().color = new Color(1.0f, 1.0f, 1.0f, 1.0f);
+                newCanvasGameObject.SetActive(true); //activate a new canvas (whatever you select)
+                Time.timeScale = 0f;
+            }
+        }
+    }
     // Start is called before the first frame update
     void Start()
     {

@@ -52,6 +52,9 @@ TagManager:
   - name: Torch
     uniqueID: 238927525
     locked: 0
+  - name: Spikes
+    uniqueID: 1923699671
+    locked: 0
   - name: Player
     uniqueID: 874589809
     locked: 0
