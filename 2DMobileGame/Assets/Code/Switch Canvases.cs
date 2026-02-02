@@ -7,8 +7,11 @@ using UnityEngine.UI;
 public class StoryCanvasManager : MonoBehaviour
 {
     public GameObject newCanvasGameObject; // Drag your new Canvas GameObject here in the Inspector
+    public GameObject secondCanvasGameObject;
     public GameObject mainCanvasGameObject; //this is our current canvas, aka, whatever canvas we put this code on
     public string levelToLoad;
+    public string levelToLoad2;
+    public string levelToLoad3;
     public void OpenNewCanvas()
     {
         if (newCanvasGameObject != null)
@@ -37,9 +40,29 @@ public class StoryCanvasManager : MonoBehaviour
             mainCanvasGameObject.SetActive(false); // Hide the main canvas
         }
     }
+    public void OpenSecondCanvas()
+    {
+        if (secondCanvasGameObject != null)
+        {
+            //show our pause menu canvas
+            secondCanvasGameObject.SetActive(true);
+        }
+        if (mainCanvasGameObject != null)
+        {
+            mainCanvasGameObject.SetActive(false); // Hide the main canvas
+        }
+    }
     public void SwitchScenes()
     {
         SceneManager.LoadScene(levelToLoad);
+    }
+    public void SwitchScenes2()
+    {
+        SceneManager.LoadScene(levelToLoad2);
+    }
+    public void SwitchScenes3()
+    {
+        SceneManager.LoadScene(levelToLoad3);
     }
 
     public void QuitGame()
